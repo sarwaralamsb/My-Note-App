@@ -9,6 +9,8 @@
 - **Clear All**: Clear all tasks at once.
 - **Responsive Interface**: Simple and clean design with a fixed-size window.
 
+![Screenshot](Screenshot.png)
+
 ## Requirements:
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
